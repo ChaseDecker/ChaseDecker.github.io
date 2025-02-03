@@ -1,0 +1,7 @@
+Git commit messages
+cd, change directory
+ls, list files
+git add ., add all files
+git status, to see staged styles
+git commit -m "", commits code with message
+git push origin main, push code
